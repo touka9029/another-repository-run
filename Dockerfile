@@ -1,4 +1,4 @@
-FROM konomochi/python-selenium-beautifulsoup-base
+FROM konomochi/python-selenium-base
 
 RUN apk --update --no-cache add openssh
 
